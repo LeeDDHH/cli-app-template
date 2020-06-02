@@ -1,0 +1,41 @@
+{
+  "name": "cli-app-template",
+  "version": "1.0.0",
+  "description": "sample cli",
+  "main": "src/cli.js",
+  "scripts": {
+    "build": "node src/cli.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "cli-app",
+    "cli"
+  ],
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "src"
+  ],
+  "bin": {
+    "": "./src/cli.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "import-jsx": "4.0.0",
+    "ink": "2.7.1",
+    "ink-select-input": "3.1.2",
+    "meow": "7.0.1",
+    "open": "7.0.4",
+    "react": "16.13.1",
+    "term-img": "5.0.0",
+    "terminal-image": "1.0.1"
+  }
+}
