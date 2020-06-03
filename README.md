@@ -89,6 +89,6 @@ npm run build
 ```
 
 # License
-<a href="https://leeddhh.github.io"><img src="https://leeddhh.github.io/assets/images/kamo.jpg" style="width:60px"></a>
+<a href="https://leeddhh.github.io"><img src="https://leeddhh.github.io/assets/images/kamo.jpg" width=60px;></a>
 
 MIT © [leeddhh](https://leeddhh.github.io)
